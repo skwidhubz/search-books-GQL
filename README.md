@@ -44,31 +44,8 @@ npm run develop
 
 #### Heroku Deployment
 
-[Click me to see app!](https://book-search-mern.onrender.com/)
+[Link to deployed application](https://book-search-mern.onrender.com/)
 
-- Create heroku app
-
-  ```
-  heroku create
-  ```
-
-- Create database on MongoDB Atlas:
-
-  ```
-  Cluster ➡️ Collections ➡️ Create Database
-  ```
-
-- Change Heroku setting
-
-  ```
-  Config Vars ➡️ KEY: MONGODB_URI ➡️ VALUE: (from Cluster connect, change password and database name)
-  ```
-
-- Git push
-  ```
-  git push heroku main
-  heroku open
-  ```
 
 #### App Screenshot
 
@@ -81,11 +58,10 @@ This project is licensed under MIT, for more information please visit [this webs
 
 ## Contribution
 
-Made by Wenwen Tian
+Coded by T.Parker
 
-## Questions?
+## Questions/Contact
 
-Please feel free to contact me if you need any further information:
 
-- [Email](mailto:wwtian9@gmail.com)
-- [Github Profile](https://github.com/joce1ynn)
+- [Email](mailto:tommaxwellparker@gmail.com)
+- [Github Profile](https://github.com/skwidhubz)
