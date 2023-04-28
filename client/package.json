@@ -1,6 +1,7 @@
 {
   "name": "client",
   "version": "0.1.0",
+  "author": "T.Parker 2023",
   "private": true,
   "proxy": "http://localhost:3001",
   "dependencies": {
