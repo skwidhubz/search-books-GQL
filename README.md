@@ -44,17 +44,17 @@ npm run develop
 
 #### Heroku Deployment
 
-[Link to deployed application](https://book-search-mern.onrender.com/)
+[Link to deployed application](https://search-books-gql.herokuapp.com/)
 
 
 #### App Screenshot
 
-![Screenshot](./client/public/GBS.png)
+![Screenshot](./client/public/sshot_demo.png)
 
 ## License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) <br>
-This project is licensed under MIT, for more information please visit [this website](https://opensource.org/licenses/MIT)
+This project is licensed under MIT.
 
 ## Contribution
 
